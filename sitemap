@@ -1,0 +1,41 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
+<url>
+<loc>https://kung96.github.io/</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://kung96.github.io/index.html</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kung96.github.io/promotional%20pages.html</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kung96.github.io/watch.html</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kung96.github.io/service.html</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kung96.github.io/more.html</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://kung96.github.io/contactus.html</loc>
+<lastmod>2019-03-05T18:08:02+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+</urlset>
