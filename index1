@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        
+         <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133553702-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-133553702-1');
+        </script>
+        
+        
+        
+        <title>GENETIC WATCH</title>
+        <meta name="title" content="Genetic Watch">
+        <meta name="description" content="GENETIC WATCH established in 1995, we have been in operation for more than 22 years.">
+        <meta name="keywords" content="genetic , watch, more, activity, your, read">
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/newcss.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css"/>
+        <link href="css/animate(css).css" rel="stylesheet" type="text/css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link rel="icon" href="image/logo.png" type="image/gif" sizes="16x16">
+
+    </head>
+    <body>
+          <div id="myNavbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+         <div class="container">
+             <div class="navbar-header">
+                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                 </button>
+                <img src="image/watch logo.png"  width="200" height="60"></img></a>
+             </div>
+             <div class="navbar-collapse collapse">
+                 <ul class=" nav navbar-nav navbar-right">
+                     <li><a href="index.html">HOME</a></li>
+                     <li><a href="promotional pages.html">ABOUT US </a></li>  
+                     <li><a href="watch.html"> WATCH </a></li>  
+                     <li><a href="service.html"> SERVICE</a></li>  
+                     <li><a href="more.html"> MORE</a></li> 
+                     <li><a href="contactus.html">CONTACT Us</a></li>  
+                 </ul>
+             </div>
+         </div>
+     </div>
+
+         <!--Full Video-->
+        <header class="v-header container">
+            <div class="fullscreen-video-wrap">
+            <video src="Video/watch.mp4" autoplay="true" loop="true"></video>
+            </div>
+            <div class="header-overlay"></div>
+            <div class="header-content AM bounceInDown" data-AM-delay="1s">
+                <h1>GENETIC WATCH READY TO EXPLORE</h1>
+                <p>Simplify your life !</p>
+                <a href="promotional pages.html" class="btn">Read More</a>
+            </div>
+        </header>
+         
+         <br><br><br><br><br><br>
+          <img src="image/watch2.jpg" alt="" style="width:100%" height="900"/><br><br><br><br><br><br><br><br>
+          
+                        <div class="container-fluid bg-3 text-center">    
+                <h1 class="margin">NEW GENETIC WATCH 2019</h1><br><br><br>
+                
+                          <div class="container-fluid">
+                          <div class="row">
+                           <div class="col-lg-6">
+                               <h2>Challenge yourself by</h2> 
+                               <h2> Challenging a friend.</h2>
+                       </div>
+                       <div class="col-lg-6">
+                           <p>Genetic Watch lets you share your activity progress from the trail,</p> 
+                           <p>the track or even the pool. And now, new Activity competitions let</p> 
+                           <p>you invite a friend to a seven-day contest where you earn points </p> 
+                           <p> based on the percentage of your daily Activity rings you close. </p> 
+                        
+                       </div>
+                     </div>
+                   </div>
+          
+          
+         
+       <!----video---->
+       <div  id ="video">
+        <div class="video">
+           <div class="container-fluid text-center bg-grey ">
+               
+             <br><br><br><br><br><br><br><br><br><br>
+               <div class="row text-center">
+                    <div class="col-sm-6 ">
+                         <div class="thumbnail  AM bounceInLeft ">
+                            
+                     <img src="image/watch5.jpg" alt=""/>
+                     <h2>NEW STYLE GENETIC WATCH 2019</h2>
+                     <p> <a href="watch.html" class="btn btn-primary">Read More</a></p><br>
+                      </div>
+                    </div>
+               <div class="col-sm-6 ">
+                 <div class="thumbnail AM bounceInLeft"data-AM-delay="1s">
+                       
+                     <img src="image/watch6.jpg" alt=""/>
+                     <h2>NEW GENETIC WATCH COMING SOON</h2>
+                     <p><a href="watch.html" class="btn btn-primary">Read More</a></p><br>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+           </div>
+          </div>
+        
+          <div id="contact">              
+                 <!--footer-->
+        <div id="footer" class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <h4>GENETIC WATCH</h4><br>
+                        <p> Address: 68,Bukit Bintang Street, Bukit Bintang,55100 Kuala Lumpur. </p>
+                    </div>
+                    <div class="col-lg-4 col-md-4"><br><br><br><br>
+                         <p>Email : Geneticwatch123@gmail.com </p>  
+                         <p>Website : www.geneticwatch.com.my </p>
+                    </div>
+                    <div class="col-lg-4 col-md-4"><br><br><br><br>
+                         <p>TEL: +(603)8528 6786 </p>   
+                         <p>FAX: +(603)8528 6768 </p> 
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+ 
+            <div class="copyright1">
+              <p>Copyright © 2019 GENETIC WATCH</p>
+            </div>
+
+        
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+                   <script src="js/wow.min.js"></script>
+                   <script>
+                   new AM().init();
+                   </script>
+                   <script src="js/bootstrap.min.js"></script>
+       <script src="assets/js/jquery.min.js"></script> 
+
+    </body>
+</html>
